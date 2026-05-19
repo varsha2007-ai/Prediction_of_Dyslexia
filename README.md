@@ -57,3 +57,4 @@ The GUI displays the uploaded inputs, predicted class label (dyslexic or non-dys
 CONCLUSION:
 
 This project presents a complete end-to-end workflow for dyslexia identification using eye-gaze behaviour. Through dataset enhancement, rigorous preprocessing, and the integration of LSTM, CNN, and hybrid architectures, the system provides a reliable and interpretable method for dyslexia screening. The accompanying GUI further supports practical deployment and ease of use.
+
